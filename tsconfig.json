@@ -6,6 +6,7 @@
       "dom.iterable",
       "esnext"
     ],
+    "types": ["@material-tailwind/react"],
     "allowJs": true,
     "skipLibCheck": true,
     "strict": true,
