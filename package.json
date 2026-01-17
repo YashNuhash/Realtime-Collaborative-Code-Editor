@@ -30,6 +30,7 @@
     "prismjs": "^1.30.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-google-recaptcha": "^3.1.0",
     "react-hot-toast": "^2.6.0",
     "react-simple-code-editor": "^0.14.1",
     "socket.io": "^4.8.1",
@@ -45,6 +46,7 @@
     "@types/prismjs": "^1.26.5",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "@types/react-google-recaptcha": "^2.1.9",
     "tailwindcss": "^4",
     "typescript": "^5"
   }
